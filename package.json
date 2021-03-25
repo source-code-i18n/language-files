@@ -1,0 +1,17 @@
+{
+  "name": "language-files",
+  "version": "0.0.1",
+  "description": "Repository where natural language translations are kept.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/source-code-i18n/language-files.git"
+  },
+  "author": "Andrew Ottaviano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/source-code-i18n/language-files/issues"
+  },
+  "homepage": "https://github.com/source-code-i18n/language-files#readme"
+}
